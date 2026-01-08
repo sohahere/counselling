@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn
 joblib
+--prefer-binary
 shap
 plotly
 wordcloud
