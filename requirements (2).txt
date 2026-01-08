@@ -4,10 +4,8 @@ numpy
 scikit-learn
 joblib
 shap
-matplotlib
-seaborn
 plotly
 wordcloud
+matplotlib
 reportlab
-streamlit-lottie
 requests
