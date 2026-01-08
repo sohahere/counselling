@@ -1,12 +1,13 @@
+--prefer-binary
 streamlit
 pandas
 numpy
 scikit-learn
 joblib
---prefer-binary
-shap
+shap==0.41.0
 plotly
 wordcloud
 matplotlib
 reportlab
 requests
+Pillow
